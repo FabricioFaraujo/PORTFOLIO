@@ -79,7 +79,7 @@ li:hover {
 .arrows path.a1 {
     animation-delay: -1s;
     -webkit-animation-delay: -1s;
-}
+} 
 
 .arrows path.a2 {
     animation-delay: -0.5s;
